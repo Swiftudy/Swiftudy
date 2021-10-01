@@ -15,12 +15,12 @@
 <br>
 
 ## 기간
-매주 금요일 오후 9시
+매주 일요일 오후 9시
 
 <br>
 
 ## 방식
-각자 정해진 범위를 공부하고 공유할 사항을 스터디에서 취합 후 Organization에 정리
+각자 정해진 범위를 공부하고 공유할 만한 사항을 공유 및 토론하기
 
 <br>
 
@@ -55,7 +55,8 @@
 > | Week    | Subject                                  | Day 
 > | ------- | ---------------------------------------- | ------ 
 > | 1       | Introduction to Swift, Consolidation I   | 1 ~ 15
-> | 2       | 추가 예정                        | 
+> | 2       | collections, closure, struct & class, protocol & optional  | 1 ~ 15
+> | 3       | 추가 예정 | 
 
 
 <br>
