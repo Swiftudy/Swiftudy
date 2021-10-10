@@ -56,7 +56,8 @@
 > | ------- | ---------------------------------------- | ------ 
 > | 1       | Introduction to Swift, Consolidation I   | 1 ~ 15
 > | 2       | collections, closure, struct & class, protocol & optional  | 1 ~ 15
-> | 3       | 추가 예정 | 
+> | 3       | Project 1: part 1, 2, 3                  | 16 ~ 18
+> | 4       | 추가 예정 | 
 
 
 <br>
@@ -98,5 +99,4 @@
 ## Collaborators
 * [juhyoungjung1992@gmail.com]()
 * [hyerichungdev@gmail.com]()
-* [dev.ryu2021@gmail.com]()
 * [Jett@vanillacoding.co ]()
